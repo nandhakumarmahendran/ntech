@@ -1,0 +1,7 @@
+bg image(https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/153f35dc-2a8a-401b-ab2a-e548ff8f5f3f/File/d23ef79b6beee8f0aa169b8dc34d43bc/saas_security.jpg)
+
+
+
+bootstrap  style load:https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+bootstarp icon pack..( font awasome icon)(<i class="fa fa-play-circle" aria-hidden="true"></i>)
